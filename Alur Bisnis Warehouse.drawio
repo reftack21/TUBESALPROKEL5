@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T05:39:59.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.0.5" etag="1VNqVcRqcyGGPE7oF80Z" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T05:43:30.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="NH1dTfJM_nse58uxbr8O" version="24.0.5" type="github">
   <diagram name="Halaman-1" id="MUh2MNRiSP9IBNjPyRPt">
-    <mxGraphModel>
+    <mxGraphModel dx="1673" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="boivuP991LZTVH_0EtmD-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="boivuP991LZTVH_0EtmD-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="boivuP991LZTVH_0EtmD-1">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="boivuP991LZTVH_0EtmD-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="boivuP991LZTVH_0EtmD-1">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="boivuP991LZTVH_0EtmD-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="boivuP991LZTVH_0EtmD-1">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
