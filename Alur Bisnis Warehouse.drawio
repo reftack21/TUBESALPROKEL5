@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T11:03:25.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="tK6Y7qMq5uCvMwPkKKAl" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T11:04:13.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="GnczZ-znWfItoGHdSjwf" version="24.4.6" type="github">
   <diagram name="Halaman-1" id="MUh2MNRiSP9IBNjPyRPt">
-    <mxGraphModel dx="1673" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1255" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
         <mxCell id="boivuP991LZTVH_0EtmD-32" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2230" y="100" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GpmnmHafsIkFOorHk_R_-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GpmnmHafsIkFOorHk_R_-2" value="TESTING" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
